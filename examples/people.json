@@ -1,0 +1,4 @@
+[
+  {"id": 1, "name": "Radwan", "location": {"city": "Mosul", "country": "Iraq"}, "skills": ["Python", "Git"]},
+  {"id": 2, "name": "سارة", "location": {"city": "Baghdad", "country": "Iraq"}, "skills": ["JavaScript"]}
+]
